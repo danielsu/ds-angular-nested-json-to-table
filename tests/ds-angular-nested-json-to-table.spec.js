@@ -191,24 +191,25 @@ describe('data service', function () {
             ]
         };
 
-        var result = service.transformNestedDataToORM(input);
+        service.transformNestedDataToORM(input);
+        var resultTables = service.unitTest.storageObject.tables;
 
-        expect(result).toBeDefined();
-        expect(result.TopLevel).toBeDefined();
-        expect(result.articles).toBeDefined();
+        expect(resultTables).toBeDefined();
+        expect(resultTables.TopLevel).toBeDefined();
+        expect(resultTables.articles).toBeDefined();
 
         expectedORM.TopLevel.forEach(function (expectedListEntry, index) {
             // check top level data sets
-            expect(result.TopLevel[index].purchaseDate).toBe(expectedListEntry.purchaseDate);
-            expect(result.TopLevel[index].zipCode).toBe(expectedListEntry.zipCode);
-            expect(result.TopLevel[index].city).toBe(expectedListEntry.city);
-            expect(result.TopLevel[index].totalCost).toBe(expectedListEntry.totalCost);
+            expect(resultTables.TopLevel[index].purchaseDate).toBe(expectedListEntry.purchaseDate);
+            expect(resultTables.TopLevel[index].zipCode).toBe(expectedListEntry.zipCode);
+            expect(resultTables.TopLevel[index].city).toBe(expectedListEntry.city);
+            expect(resultTables.TopLevel[index].totalCost).toBe(expectedListEntry.totalCost);
 
         });
 
         // check to be equal and contain 'refName' and 'refIndex'
         expectedORM.articles.forEach(function (expectedObject, index) {
-            var resultObject = result.articles[index];
+            var resultObject = resultTables.articles[index];
             var resultString = JSON.stringify(resultObject);
             var expectedPropertyNames = Object.getOwnPropertyNames(expectedObject); // indirect call for array items
 
@@ -235,7 +236,8 @@ describe('data service', function () {
             "anotherArray.category", "anotherArray.amount"
         ];
 
-        var result = service.getItemsWithSelectedProperties([], selectedPropertiesWithMultipleDifferentNesting);
+        service.unitTest.storageObject.tables = [];
+        var result = service.getItemsWithSelectedProperties(selectedPropertiesWithMultipleDifferentNesting);
 
         expect(console.error).toHaveBeenCalled();
     });
@@ -249,9 +251,11 @@ describe('data service', function () {
             "oneArray.pricePerPiece"
         ];
 
-        var result = service.getItemsWithSelectedProperties([], selectedPropertiesWithMultipleDifferentNesting);
 
-        expect(console.error).toHaveBeenCalledWith("no inputORMData data given");
+        service.unitTest.storageObject.tables = [];
+        var result = service.getItemsWithSelectedProperties(selectedPropertiesWithMultipleDifferentNesting);
+
+        expect(console.error).toHaveBeenCalledWith("no inputTables data given");
     });
 
     it("should transform nested array to 2D datasets", function () {
@@ -346,7 +350,9 @@ describe('data service', function () {
             }
         ];
 
-        var result = service.getItemsWithSelectedProperties(input2DData, selectedProperties);
+
+        service.unitTest.storageObject.tables = input2DData;
+        var result = service.getItemsWithSelectedProperties(selectedProperties);
         expect(result.length).not.toBe(0);
 
         var resultString = JSON.stringify(result);
@@ -426,6 +432,7 @@ describe('data service', function () {
         var selectedTopLevelProperties = [
             "purchaseDate", "zipCode", "city"
         ];
+
         var expectedList = [
             {
                 "purchaseDate": 1478931416146,
@@ -440,7 +447,8 @@ describe('data service', function () {
 
         ];
 
-        var result = service.getItemsWithSelectedProperties(input2DData, selectedTopLevelProperties);
+        service.unitTest.storageObject.tables = input2DData;
+        var result = service.getItemsWithSelectedProperties(selectedTopLevelProperties);
         expect(result.length).not.toBe(0);
 
         var resultString = JSON.stringify(result);

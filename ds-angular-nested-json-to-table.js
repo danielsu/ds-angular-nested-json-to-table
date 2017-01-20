@@ -28,7 +28,10 @@
 
 angular.module('ds-angular-nested-json-to-table', [])
     .factory('nestedJsonToTableService', function () {
-        var storageObject = {};
+        var storage = {
+            // nested level to keep references on storage object, when replacing content
+            tables: {}
+        };
         // HELPER
         /*
          * Polyfill for String.startsWith taken from
@@ -123,8 +126,8 @@ angular.module('ds-angular-nested-json-to-table', [])
 
             /**
              * Transform nested Data set to object relational mapping
+             * Result will be stored in service.
              * @param inputList
-             * @return {{TopLevel: Array}}
              */
             transformNestedDataToORM: function (inputList) {
                 var resultStorage = {
@@ -160,21 +163,20 @@ angular.module('ds-angular-nested-json-to-table', [])
                         }
                     });
                 });
-                //storageObject = resultStorage;
-                return resultStorage;
+                storage.tables = resultStorage;
             },
 
             /**
              * Combines a result set with given properties from multiple data sets (tables, ORM)
-             * @get selected param inputORMData
              * @param selectedProperties
              * @return {Array}
              */
-            getItemsWithSelectedProperties: function (inputORMData, selectedProperties) {
+            getItemsWithSelectedProperties: function (selectedProperties) {
                 var result = [];
+                var inputTables = storage.tables;
 
-                if (!inputORMData || inputORMData.length === 0) {
-                    console.error('no inputORMData data given');
+                if (!inputTables || inputTables.length === 0) {
+                    console.error('no inputTables data given');
                     return [];
                 }
 
@@ -209,7 +211,7 @@ angular.module('ds-angular-nested-json-to-table', [])
                 if (nestedPropList.length === 0) {
                     // handle case, when only outer data is selected
                     //iterate over top level
-                    inputORMData.TopLevel.forEach(function (item) {
+                    inputTables.TopLevel.forEach(function (item) {
                         var newEntry = {};
                         selectedProperties.forEach(function (propName) {
                             newEntry[propName] = item[propName]
@@ -219,7 +221,7 @@ angular.module('ds-angular-nested-json-to-table', [])
 
                 } else {
                     // iterate over nested array and fill with surrounding parent data
-                    inputORMData[singleArrayName].forEach(function (innerItem) {
+                    inputTables[singleArrayName].forEach(function (innerItem) {
                         var newEntry = {};
                         // get all selected array values
                         // e.g. "articles.pricePerPiece", "articles.category"
@@ -233,7 +235,7 @@ angular.module('ds-angular-nested-json-to-table', [])
                                 // parent data: e.g. "zipCode": "80331", "city": "München"
 
                                 // TODO performance killer ? due to look up for each property
-                                var parent = inputORMData[innerItem.refName][innerItem.refIndex];
+                                var parent = inputTables[innerItem.refName][innerItem.refIndex];
                                 newEntry[propName] = parent[propName];
                             } else {
                                 console.error('Skip property of multiple array:', propName);
@@ -244,8 +246,8 @@ angular.module('ds-angular-nested-json-to-table', [])
                 }
                 return result;
             },
-            getStorageObject: function () {
-                return storageObject;
+            unitTest:{
+                storageObject: storage
             }
         }
     });
