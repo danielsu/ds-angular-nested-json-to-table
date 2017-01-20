@@ -1,7 +1,9 @@
 # ds-angular-nested-json-to-table
+
 An angular service to convert a hierarchical nested data structure into a table like representation with selected attributes
 
 **setup**
+
 npm install --save ds-angular-nested-json-to-table
 
 or
@@ -9,6 +11,7 @@ or
 bower install --save ds-angular-nested-json-to-table
 
 **demo**
+
 See the simple demo app in 'demo' directory.
 
 Example Data: Array of shopping with nested articles lists 
@@ -51,9 +54,11 @@ Workflow Step 3: generate the final result. Each nested data sets is at top leve
 See test-cases for details.
 
 **test**
+
 run `npm test`
 
 **known issues**
+
 - only can generate result table with single nested set selected. fails, if multiple different nested sets are selected (no Cartesian grid)
 - currently synchronous, promises/async to come
 - only basic error handling

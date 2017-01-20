@@ -5,7 +5,7 @@
   "authors": [
     "Daniel Suess <daniel.suess.developer@gmail.com>"
   ],
-  "description": "convert a hierarchical nested data structure into a table like representation with selected attributes",
+  "description": "An angular service to convert a hierarchical nested data structure into a table like representation with selected attributes",
   "keywords": [
     "data",
     "management",

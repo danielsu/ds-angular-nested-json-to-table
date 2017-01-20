@@ -1,7 +1,7 @@
 {
-  "name": "nested-json-to-table",
+  "name": "ds-angular-nested-json-to-table",
   "version": "0.1.0",
-  "description": "convert a hierarchical nested data structure into a table like representation with selected attributes",
+  "description": "An angular service to convert a hierarchical nested data structure into a table like representation with selected attributes",
   "main": "ds-angular-nested-json-to-table.js",
   "directories": {
     "test": "tests"
