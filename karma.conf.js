@@ -15,6 +15,8 @@ module.exports = function(config) {
             "tests/*.js"
         ],
         autoWatch: true,
-        autoWatchBatchDelay: 250 //default
+        autoWatchBatchDelay: 250, //default
+        singleRun: true //Continuous Integration mode with an exit code of 0 or 1
+
     });
 };
