@@ -1,0 +1,61 @@
+.container{
+    margin-top: 2em;
+}
+
+span.multiSelect > button {
+    border-radius: 0;
+    width: 100%;
+    overflow: hidden;
+}
+
+.jsonUrlHandling input[type="text"] {
+    height: 38px;
+}
+
+.jsonUrlHandling button {
+    line-height: 2em;
+    height: 38px;
+}
+
+.jsonUrlHandling button[disabled] {
+    color: lightgrey;
+}
+
+.jsonUrlHandling .jsonWorkflowIndicator div {
+    height: 3px;
+    transition: scaleX 500ms linear;
+    transform-origin: left;
+}
+
+.jsonUrlHandling .jsonWorkflowIndicator .done.inProgress, /* done is more important than progress */
+.jsonUrlHandling .jsonWorkflowIndicator .done {
+    background-color: green;
+    animation: 0.75s linear animateScale;
+}
+
+.jsonUrlHandling .jsonWorkflowIndicator .inProgress {
+    animation: 0.75s linear infinite alternate blinkOrange;
+    animation-delay: 1s; /* the green transition */
+}
+
+@keyframes animateScale {
+    from {
+        transform: scaleX(0);
+    }
+    to {
+        transform: scaleX(1);
+    }
+}
+
+@keyframes blinkOrange {
+    from {
+        background-color: transparent;
+    }
+    to {
+        background-color: orange;
+    }
+}
+
+.data-table{
+    border: 1px solid darkgray;
+}

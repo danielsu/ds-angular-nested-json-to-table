@@ -1,0 +1,55 @@
+<div class="container">
+
+    <div style="margin-bottom: 1em;">
+        <label>
+            Enter URL with JSON data
+        </label><br/>
+        (from same webserver or has to set allow- flags for Cross Origin Resource Sharing)
+    </div>
+    <div class="jsonUrlHandling row">
+        <div class="col-sm-12">
+
+            <input class="col-sm-3" type="text"
+                   ng-click="datasource='jsonUrl'"
+                   ng-model="jsonUrl"
+                   placeholder="URL to JSON data"
+                   ng-change="resetData(true)">
+            <button class="col-sm-1" ng-click="loadJsonData()" ng-disabled="!jsonUrl">Load</button>
+
+            <label class="col-sm-2">Select fields to use:</label>
+
+            <div
+                    class="col-sm-4"
+                    isteven-multi-select
+                    input-model="jsonAvailableMetadata"
+                    output-model="jsonSelectedMetadata"
+                    button-label="key"
+                    item-label="key"
+                    tick-property="ticked"
+                    >
+            </div>
+            <button class="col-sm-2 pull-right" ng-click="fetchJsonData()"
+                    ng-disabled="!fetchJsonDataAllowed()"
+                    >Prepare Data
+            </button>
+        </div>
+        <div class="col-sm-12 jsonWorkflowIndicator">
+            <!-- url -->
+            <div class="col-sm-3" ng-class="{inProgress: datasource=='jsonUrl', done: jsonUrl.length}"></div>
+            <!-- load -->
+            <div class="col-sm-1"
+                 ng-class="{ inProgress: jsonUrl.length, done: JSON_WORKFLOW_STAGES.DATA_FROM_URL_LOADED}"></div>
+            <!-- select fields -->
+            <div class="col-sm-6 "
+                 ng-class="{ inProgress: JSON_WORKFLOW_STAGES.DATA_FROM_URL_LOADED, done: jsonSelectedMetadata.length}"></div>
+            <!-- prepare data -->
+            <div class="col-sm-2"
+                 ng-class="{ inProgress: jsonSelectedMetadata.length, done: JSON_WORKFLOW_STAGES.DATA_PREPARED}"></div>
+        </div>
+    </div>
+
+    <span class="clearfix"></span>
+
+    <label style="margin-top: 2em;">Preview Table</label>
+    <div raw-table class="data-table"></div>
+</div>

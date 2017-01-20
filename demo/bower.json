@@ -1,0 +1,22 @@
+{
+  "name": "Demo",
+  "version": "0.1.0",
+  "homepage": "https://github.com/danielsu/ds-angular-nested-json-to-table",
+  "authors": [
+    "Daniel Suess <daniel.suess.developer@gmail.com>"
+  ],
+  "description": "convert a hierarchical nested data structure into a table like representation with selected attributes",
+  "main": "index.html",
+  "keywords": [
+    "Raw"
+  ],
+  "dependencies": {
+    "angular": "1.2.32",
+    "d3": "~3.4.3",
+    "bootstrap": "3.1.1",
+    "jquery-ui": "1.10.4",
+    "angular-route": "1.2.14",
+    "isteven-angular-multiselect": "^4.0.0",
+    "ds-angular-nested-json-to-table": "0.1.0"
+  }
+}

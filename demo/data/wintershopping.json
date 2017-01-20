@@ -1,0 +1,2262 @@
+[
+  {
+    "purchaseDate": 1478931416146,
+    "zipCode": "80331",
+    "city": "München",
+    "articles": [
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 40,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 40,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 40,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 360
+  },
+  {
+    "purchaseDate": 1478879356383,
+    "zipCode": "60306",
+    "city": "Frankfurt",
+    "articles": [
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 40,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 60,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 1677
+  },
+  {
+    "purchaseDate": 1480770138630,
+    "zipCode": "80331",
+    "city": "München",
+    "articles": [
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 60,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 1875
+  },
+  {
+    "purchaseDate": 1482822842584,
+    "zipCode": "50667",
+    "city": "Köln",
+    "articles": [
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 90,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 90,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 70,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 814
+  },
+  {
+    "purchaseDate": 1477043661527,
+    "zipCode": "50667",
+    "city": "Köln",
+    "articles": [
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 100,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 20,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 30,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 1577
+  },
+  {
+    "purchaseDate": 1475966675706,
+    "zipCode": "80331",
+    "city": "München",
+    "articles": [
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 90,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 735
+  },
+  {
+    "purchaseDate": 1479951977617,
+    "zipCode": "10117",
+    "city": "Berlin",
+    "articles": [
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 70,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 50,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 80,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 2669
+  },
+  {
+    "purchaseDate": 1482359188135,
+    "zipCode": "01067",
+    "city": "Dresden",
+    "articles": [
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 100,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 10,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 90,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 298
+  },
+  {
+    "purchaseDate": 1481213846774,
+    "zipCode": "60306",
+    "city": "Frankfurt",
+    "articles": [
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 50,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 50,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 3463
+  },
+  {
+    "purchaseDate": 1480634541730,
+    "zipCode": "80331",
+    "city": "München",
+    "articles": [
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 30,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 2764
+  },
+  {
+    "purchaseDate": 1475902505346,
+    "zipCode": "50667",
+    "city": "Köln",
+    "articles": [
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 30,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 1524
+  },
+  {
+    "purchaseDate": 1478930072549,
+    "zipCode": "80331",
+    "city": "München",
+    "articles": [
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 40,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 70,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 50,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 841
+  },
+  {
+    "purchaseDate": 1475328146632,
+    "zipCode": "60306",
+    "city": "Frankfurt",
+    "articles": [
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 20,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 30,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 20,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 1120
+  },
+  {
+    "purchaseDate": 1481304985607,
+    "zipCode": "50667",
+    "city": "Köln",
+    "articles": [
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 100,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 963
+  },
+  {
+    "purchaseDate": 1479207933078,
+    "zipCode": "01067",
+    "city": "Dresden",
+    "articles": [
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 40,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 60,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 60,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 903
+  },
+  {
+    "purchaseDate": 1476761070864,
+    "zipCode": "60306",
+    "city": "Frankfurt",
+    "articles": [
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 20,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 90,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 1551
+  },
+  {
+    "purchaseDate": 1475831885356,
+    "zipCode": "01067",
+    "city": "Dresden",
+    "articles": [
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 50,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 70,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 693
+  },
+  {
+    "purchaseDate": 1475515357374,
+    "zipCode": "50667",
+    "city": "Köln",
+    "articles": [
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 100,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 100,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 40,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 1726
+  },
+  {
+    "purchaseDate": 1480771575534,
+    "zipCode": "60306",
+    "city": "Frankfurt",
+    "articles": [
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 50,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 1298
+  },
+  {
+    "purchaseDate": 1482136477658,
+    "zipCode": "60306",
+    "city": "Frankfurt",
+    "articles": [
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 90,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 1092
+  },
+  {
+    "purchaseDate": 1483090946414,
+    "zipCode": "01067",
+    "city": "Dresden",
+    "articles": [
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 80,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 60,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 782
+  },
+  {
+    "purchaseDate": 1481857927577,
+    "zipCode": "60306",
+    "city": "Frankfurt",
+    "articles": [
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 10,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 10,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 70,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 658
+  },
+  {
+    "purchaseDate": 1482604956156,
+    "zipCode": "60306",
+    "city": "Frankfurt",
+    "articles": [
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 80,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 1160
+  },
+  {
+    "purchaseDate": 1482164442392,
+    "zipCode": "50667",
+    "city": "Köln",
+    "articles": [
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 80,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 70,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 1071
+  },
+  {
+    "purchaseDate": 1476121740155,
+    "zipCode": "60306",
+    "city": "Frankfurt",
+    "articles": [
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 50,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 60,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 20,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 1186
+  },
+  {
+    "purchaseDate": 1475324705830,
+    "zipCode": "10117",
+    "city": "Berlin",
+    "articles": [
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 80,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 30,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 485
+  },
+  {
+    "purchaseDate": 1476832135253,
+    "zipCode": "01067",
+    "city": "Dresden",
+    "articles": [
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 50,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 80,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 2009
+  },
+  {
+    "purchaseDate": 1481164991686,
+    "zipCode": "80331",
+    "city": "München",
+    "articles": [
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 60,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 420
+  },
+  {
+    "purchaseDate": 1480492381661,
+    "zipCode": "01067",
+    "city": "Dresden",
+    "articles": [
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 40,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 332
+  },
+  {
+    "purchaseDate": 1479517382341,
+    "zipCode": "10117",
+    "city": "Berlin",
+    "articles": [
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 100,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 1029
+  },
+  {
+    "purchaseDate": 1476379251195,
+    "zipCode": "80331",
+    "city": "München",
+    "articles": [
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 10,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 80,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 1143
+  },
+  {
+    "purchaseDate": 1482583806370,
+    "zipCode": "50667",
+    "city": "Köln",
+    "articles": [
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 10,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 20,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 2502
+  },
+  {
+    "purchaseDate": 1480504436593,
+    "zipCode": "80331",
+    "city": "München",
+    "articles": [
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 30,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 60,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 50,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 554
+  },
+  {
+    "purchaseDate": 1477719079844,
+    "zipCode": "80331",
+    "city": "München",
+    "articles": [
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 10,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 2961
+  },
+  {
+    "purchaseDate": 1476936838904,
+    "zipCode": "01067",
+    "city": "Dresden",
+    "articles": [
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 30,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 2637
+  },
+  {
+    "purchaseDate": 1475977434857,
+    "zipCode": "50667",
+    "city": "Köln",
+    "articles": [
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 80,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 70,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 3414
+  },
+  {
+    "purchaseDate": 1479909975783,
+    "zipCode": "50667",
+    "city": "Köln",
+    "articles": [
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 30,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 50,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 90,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 1645
+  },
+  {
+    "purchaseDate": 1478170215932,
+    "zipCode": "01067",
+    "city": "Dresden",
+    "articles": [
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 40,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 510
+  },
+  {
+    "purchaseDate": 1477479331968,
+    "zipCode": "10117",
+    "city": "Berlin",
+    "articles": [
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 90,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 30,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 2460
+  },
+  {
+    "purchaseDate": 1479209584868,
+    "zipCode": "60306",
+    "city": "Frankfurt",
+    "articles": [
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Pullover",
+        "pricePerPiece": 39,
+        "category": "Hemden",
+        "amount": 3
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Wintermantel",
+        "pricePerPiece": 120,
+        "category": "Oberbekleidung",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model C",
+        "pricePerPiece": 125,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 70,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 60,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 989
+  },
+  {
+    "purchaseDate": 1478158839358,
+    "zipCode": "80331",
+    "city": "München",
+    "articles": [
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Skier",
+        "pricePerPiece": 249,
+        "category": "Sportzubehör",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model B",
+        "pricePerPiece": 75,
+        "category": "Schuhe",
+        "amount": 1
+      },
+      {
+        "name": "Stiefel Model A",
+        "pricePerPiece": 49,
+        "category": "Schuhe",
+        "amount": 2
+      },
+      {
+        "name": "Polohemd",
+        "pricePerPiece": 25,
+        "category": "Hemden",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 10,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 100,
+        "category": "Gutscheine",
+        "amount": 1
+      },
+      {
+        "name": "Gutscheinkarte",
+        "pricePerPiece": 90,
+        "category": "Gutscheine",
+        "amount": 1
+      }
+    ],
+    "totalCost": 745
+  }
+]
