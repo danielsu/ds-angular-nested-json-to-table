@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<textarea rows="30" cols="200"></textarea>
+<script type="application/javascript">
+
+    var articleList = [
+        {
+            name: "Skianzug",
+            pricePerPiece: 329.00,
+            category: "Oberbekleidung"
+        }, {
+            name: "Skier",
+            pricePerPiece: 249.00,
+            category: "Sportzubehör"
+        }, {
+            name: "Wintermantel",
+            pricePerPiece: 120.00,
+            category: "Oberbekleidung"
+        }, {
+            name: "Polohemd",
+            pricePerPiece: 25.00,
+            category: "Hemden"
+        }, {
+            name: "Pullover",
+            pricePerPiece: 39.00,
+            category: "Hemden"
+        }, {
+            name: "Stiefel Model A",
+            pricePerPiece: 49.00,
+            category: "Schuhe"
+        }, {
+            name: "Stiefel Model B",
+            pricePerPiece: 75.00,
+            category: "Schuhe"
+        }, {
+            name: "Stiefel Model C",
+            pricePerPiece: 125.00,
+            category: "Schuhe"
+        }];
+
+    function getArticleVoucher(price) {
+        return {
+            name: "Gutscheinkarte",
+            pricePerPiece: price,
+            category: "Gutscheine"
+        }
+    }
+
+    var cityList = [{
+        name: "Hamburg",
+        zipCode: "20095"
+    }, {
+        name: "Berlin",
+        zipCode: "10117"
+    }, {
+        name: "Dresden",
+        zipCode: "01067"
+    }, {
+        name: "Köln",
+        zipCode: "50667"
+    }, {
+        name: "Frankfurt",
+        zipCode: "60306"
+    }, {
+        name: "München",
+        zipCode: "80331"
+    }];
+
+
+    function generateSingleOrder() {
+        const MAX_AMOUNT = 3;
+        const MAX_NUMBER_OF_ITEMS = 10;
+        const MAX_NUMBER_OF_VOUCHERS = 3;
+
+        function getRandomInteger(range) {
+            return Math.ceil(Math.random() * range);
+        }
+
+        var order = {};
+
+        var startDate = Date.parse("Oct 1, 2016"); // number
+        var endDate = Date.parse("Dec 31, 2016");  // number
+        var timeDiff = endDate - startDate;
+        order.purchaseDate = startDate + getRandomInteger(timeDiff);
+
+        var city = cityList[getRandomInteger(cityList.length -1)];
+        order.zipCode = city.zipCode;
+        order.city = city.name;
+        order.articles = [];
+
+        var numberOfItems = getRandomInteger(MAX_NUMBER_OF_ITEMS);
+        for (var i = 0; i < numberOfItems; i++) {
+            var randomArticle = articleList[getRandomInteger(articleList.length -1)];
+            randomArticle.amount = getRandomInteger(MAX_AMOUNT);
+            order.articles.push(randomArticle);
+        }
+
+        var numberOfVouchers = getRandomInteger(MAX_NUMBER_OF_VOUCHERS);
+        for (var k = 0; k < numberOfVouchers; k++) {
+            var voucher = getArticleVoucher(getRandomInteger(10) * 10); // 0,10,20...100
+            voucher.amount = 1;
+            order.articles.push(voucher);
+        }
+
+        order.totalCost = order.articles.reduce(function getTotal(prevReturn,currItem,currIdx){
+            return prevReturn += currItem.amount * currItem.pricePerPiece;
+        },0);
+
+        return order;
+    }
+
+    function generateOrders() {
+        var numberOfOrders = 40;
+
+        var orderList = [];
+
+        for (var i = 0; i <= numberOfOrders; i++) {
+            orderList.push(generateSingleOrder());
+        }
+
+        // fill box
+        var box = document.querySelector("textarea");
+        box.textContent = JSON.stringify(orderList);
+        console.log(orderList);
+    }
+
+
+    // execute
+    generateOrders();
+</script>
+</body>
+</html>
