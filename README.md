@@ -4,6 +4,9 @@ An angular service to convert a hierarchical nested data structure into a table 
 **setup**
 npm install --save ds-angular-nested-json-to-table
 
+**demo**
+See the simple demo app in 'demo' directory.
+
 **usage**
 // parse to get metadata
 `var metadata = nestedJsonToTableService.getMetaDataFromJson(nestedJson);`
@@ -130,6 +133,8 @@ Result:
          "totalCost": 1677
        }
      ]
+
+See test-cases for details.
 
 **known issues**
 - only can generate result table with single nested set selected. fails, if multiple different nested sets are selected (no Cartesian grid)

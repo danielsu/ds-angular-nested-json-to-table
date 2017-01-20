@@ -58,4 +58,6 @@ span.multiSelect > button {
 
 .data-table{
     border: 1px solid darkgray;
+    overflow: scroll;
+    max-height: 400px;
 }
