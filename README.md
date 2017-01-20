@@ -1,3 +1,5 @@
+![Build Status](https://travis-ci.org/danielsu/ds-angular-nested-json-to-table.svg?branch=master)
+
 # ds-angular-nested-json-to-table
 
 An angular service to convert a hierarchical nested data structure into a table like representation with selected attributes
@@ -12,7 +14,12 @@ bower install --save ds-angular-nested-json-to-table
 
 **demo**
 
-See the simple demo app in 'demo' directory.
+Take a look at the [Video Demo on YouTube](https://www.youtube.com/watch?v=bgkKO4IwE54)
+
+or inspect the simple demo app in 'demo' directory
+
+or see the images below
+
 
 Example Data: Array of shopping with nested articles lists 
 
