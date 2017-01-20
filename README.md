@@ -14,13 +14,13 @@ npm install --save ds-angular-nested-json-to-table
             "articles.category", "articles.amount"
 ];`
         
-// nested 3D structure to relational table like representation, will be stored in service
-`nestedJsonToTableService.transformNestedDataToORM(nestedJson);`
-// accessable at 
-`nestedJsonToTableService.getStorageObject()`
+// convert nested 3D structure to relational table like representation, will be stored in service
 
-`var resultArray = nestedJsonToTableService.getItemsWithSelectedProperties(dataService.getStorageObject(),
-    selectedProperties);`
+`nestedJsonToTableService.transformNestedDataToORM(nestedJson);`
+
+// get transformed tables
+
+`var resultArray = nestedJsonToTableService.getItemsWithSelectedProperties(selectedProperties);`
     
 Example Data: 
 
