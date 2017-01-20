@@ -7,6 +7,15 @@ npm install --save ds-angular-nested-json-to-table
 **demo**
 See the simple demo app in 'demo' directory.
 
+Workflow Step 1: enter URL and load data
+![workflow_1_load_data](docs/workflow_1_load_data.png)
+
+Workflow Step 2: select properties, that should be used for transformation, 1 nested set allowed
+![workflow_2_select_properties](docs/workflow_2_select_properties.png)
+
+Workflow Step 3: generate the final result. Each nested data sets is at top level including selected 'parent' properties.
+![workflow_3_transformed_result](docs/workflow_3_transformed_result.png)
+
 **usage**
 // parse to get metadata
 `var metadata = nestedJsonToTableService.getMetaDataFromJson(nestedJson);`
